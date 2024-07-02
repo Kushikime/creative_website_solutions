@@ -11,3 +11,9 @@ This was originally made following this tutorial: https://www.youtube.com/watch?
 3. Make the styles as much close to original webpage as possible
 4. Rewrite js part
 5. Add similar theme switcher which will randomly select 3 colors
+
+Used stack:
+Html
+Css
+Javascript
+GSap
